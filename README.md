@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=220&section=header&text=Lin's%20GitHub&fontSize=70&fontColor=660000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=220&section=header&text=gayoung's%20GitHub&fontSize=70&fontColor=660000)
 
 
 <!-- 인사 -->
@@ -64,7 +64,7 @@
  
 <!-- 깃 정보 -->
 <div style="display: flex; align-items: flex-start;">
-<h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />Lin's GitHub information</h3>
+<h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />gayoung's GitHub information</h3>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloCdpa)](https://github.com/HelloCdpa/github-readme-stats)
