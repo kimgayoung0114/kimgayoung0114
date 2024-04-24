@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/html5-%23FF6666.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%23FFCC33.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23666666.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white"/>
  </div>
 
  ## 🎈 etc
