@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/css3-%23FFCC33.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23666666.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/markdown-%23996633.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
  </div>
 
  ## 🎈 etc
@@ -73,7 +72,7 @@
 ## 🛸 contact 
 
 #### ✏ My velog | 1 day 1 commit && 1 velog challenge
-[![Velog's GitHub stats](https://it-gayoung.tistory.com/)
+[![Velog's GitHub stats](https://it-gayoung.tistory.com/)]
 #### 📬 Email | 7rmile@gmail.com
 
 <!--#### 📕 [Notion Portfolio](https://it-gayoung.tistory.com/) 
