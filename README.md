@@ -3,7 +3,7 @@
 
 
 <!-- 인사 -->
-## Welcome to my GitHub👋 백엔드개발자 입니다🤹‍♀️
+## Welcome to my GitHub👋 김가영 백엔드개발자 입니다🤹‍♀️
 
 # 🔎 My Project
  
@@ -33,15 +33,13 @@
 ## 📚 Frameworks, Platforms and Libraries 
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+ 
  </div>
  
 ## 🛠 IDEs
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Eclipse-7F5AB6.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=a90533"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  </div>
   
@@ -57,8 +55,9 @@
 
  ## 🎈 etc
  <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> -->
+ 
   <img src="https://img.shields.io/badge/github-%23000033.svg?style=for-the-badge&logo=github&logoColor=white"/>
  </div>
  
@@ -74,10 +73,11 @@
 ## 🛸 contact 
 
 #### ✏ My velog | 1 day 1 commit && 1 velog challenge
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hellocdpa)](https://velog.io/@hellocdpa)
-#### 📬 Email | phl1021@naver.com
-#### 📕 [Notion Portfolio](https://sleepy-hydrangea-a42.notion.site/d94a64ed8f314b19976ec06ca70569a1) 
-#### ✨ [Page Portfolio](https://hellocdpa.github.io/)
+[![Velog's GitHub stats](https://it-gayoung.tistory.com/)
+#### 📬 Email | 7rmile@gmail.com
+
+<!--#### 📕 [Notion Portfolio](https://it-gayoung.tistory.com/) 
+   #### ✨ [Page Portfolio](https://hellocdpa.github.io/) -->
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFCCCC)
