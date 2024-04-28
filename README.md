@@ -27,17 +27,18 @@
 ## 💾 Databases
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 
-## 📚 Frameworks, Platforms and Libraries 
+## 📚 Frameworks
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
  
  </div>
  
 ## 🛠 IDEs
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Eclipse-7F5AB6.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
  </div>
@@ -59,7 +60,7 @@
  
   <img src="https://img.shields.io/badge/github-%23000033.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://it-gayoung.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-ff5949?style=for-the-badge&logo=Tistory&logoColor=white" />
 	</a>
  </div>
  
