@@ -75,7 +75,7 @@
 
 <div style="row">
   <a href="https://github.com/kimgayoung0114" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimgayoung0114&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=0077b6&icon_color=0077b6&text_color=ffffff&bg_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimgayoung0114&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
 
 </div>
