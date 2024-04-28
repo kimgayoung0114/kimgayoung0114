@@ -69,8 +69,16 @@
 <h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />gayoung's GitHub information</h3>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloCdpa)](https://github.com/HelloCdpa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloCdpa&layout=compact)](https://github.com/HelloCdpa/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloCdpa)](https://github.com/HelloCdpa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloCdpa&layout=compact)](https://github.com/HelloCdpa/github-readme-stats)-->
+<div style="row">
+  <a href="https://github.com/kimgayoung0114" style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimgayoung0114&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/kimgayoung0114" style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kimgayoung0114&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
 
 
 ## 🛸 contact 
