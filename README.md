@@ -7,23 +7,20 @@
 
 # 🔎 My Project
  
-### 👩‍🔧 개발자 온라인 강의 사이트 Cocolo 
- : Spring Boot 기반으로 제작한 개발자 온라인 강의 사이트 & 커뮤니티 입니다.  
+### 👩‍🔧 펫
+ : 설명
  
-   국비지원 6개월 과정 최종 프로젝트로, 배운 것을 확실히 익히고 써보고자 개인프로젝트로 진행하였습니다.  
-   
- <a href="https://drive.google.com/file/d/1N3UmdF-V48QixlbfwTYo7omMNLBxs9nz/view">시연발표 동영상</a>  
- 
- <a href="https://github.com/HelloCdpa/cocolo220129">GitHub</a>
+ <a href="#">GitHub</a>
 
-### 🎮 NFT 게임 커뮤니티
-: Spring FrameWork 기반으로 제작한 NFT 게임 유저들을 위한 커뮤니티 입니다.  
+### 🎮헬스케어
+: 설명
+  
+  <a href="#">GitHub</a>
 
-  개발을 배운 지 얼마 되지 않았을때 개발한 프로젝트라 미흡한 점이 많습니다. 👶  
+### 🎮로
+: 설명
   
-  <a href="https://hellocdpa.github.io/nftcom.html">기능 ppt</a>  
-  
-  <a href="https://github.com/HelloCdpa/nftGameCommu">GitHub</a>
+  <a href="#">GitHub</a>
 
 # ⚙ My Skills
 
@@ -40,6 +37,7 @@
 ## 🛠 IDEs
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Eclipse-7F5AB6.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
  </div>
@@ -60,6 +58,9 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> -->
  
   <img src="https://img.shields.io/badge/github-%23000033.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://it-gayoung.tistory.com">
+		<img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" />
+	</a>
  </div>
  
 <!-- 깃 정보 -->
