@@ -8,27 +8,19 @@
 # 🔎 My Project
  
 ### 🐶 HappyTogetDOG 🐶
- : 반려견을 사랑하는 모두를 위한 종합 플랫폼
- <br>
- (반려견 기반 지역 커뮤니티 활성화 및 편의 제공 및 실시간 유기견 홍보 및 입양 유도 서비스)
- 
+ : HappyTogetDOG는 반려견을 사랑하는 모두를 위한 종합 플랫폼으로 웹페이지로 구현되었습니다.
  <a href="https://github.com/wngusv/HappyTogeDOG">GitHub</a>
 
 ### 📝 활기록 📝
-: 건강 관련 기록 일기장
-<br>
-(회원 개인의 신체상태를 기반으로 한 맞춤형 건강 관리를 제공하여, 운동, 식단, 물 섭취 등을 기록하고 분석하여 개인의 건강을 총괄적으로 지원 나눌 수 있도록 돕고자 함)
-  
+: 활기록은 건강 관련 기록 일기장으로 DB를 이용한 건강 기록 프로그램입니다.
   <a href="https://github.com/wngusv/Health-Record">GitHub</a>
 
 ### 💵 Lotto 프로그램 💵
 : 설명
-  
   <a href="#">GitHub</a>
   
 ### 🏭 자동차 엔진 제조공정 MES 구축 🏭
 : 설명
-  
   <a href="https://github.com/kimgayoung0114/SmartFactory">GitHub</a>
 
 
