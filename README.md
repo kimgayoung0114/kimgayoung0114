@@ -22,6 +22,12 @@
   
   <a href="#">GitHub</a>
 
+### ㅅ
+: 설명
+  
+  <a href="#">GitHub</a>
+
+
 # ⚙ My Skills
 
 ## 💾 Databases
@@ -55,8 +61,6 @@
 
  ## 🎈 etc
  <div style="display: flex; align-items: flex-start;">
-  <!-- <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> -->
  
   <img src="https://img.shields.io/badge/github-%23000033.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://it-gayoung.tistory.com">
@@ -69,29 +73,21 @@
 <h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />gayoung's GitHub information</h3>
 </div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloCdpa)](https://github.com/HelloCdpa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloCdpa&layout=compact)](https://github.com/HelloCdpa/github-readme-stats)-->
-  <div align=center>
-<div style="display: flex; flex-direction: column;">
-  <a href="https://github.com/kimgayoung0114/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimgayoung0114" alt="Anurag's GitHub stats">
+<div style="row">
+  <a href="https://github.com/kimgayoung0114" style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimgayoung0114&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/kimgayoung0114/github-readme-stats">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgayoung0114&layout=compact" alt="Top Langs">
-  </a>
+
 </div>
-</div>
-<br>
 
 
 ## 🛸 contact 
 
-#### ✏ My tech (https://it-gayoung.tistory.com/)
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hellocdpa)](https://it-gayoung.tistory.com/) -->
+#### ✏ My log (https://it-gayoung.tistory.com/)
 #### 📬 Email | 7rmile@gmail.com
 
-<!--#### 📕 [Notion Portfolio](https://it-gayoung.tistory.com/) 
-   #### ✨ [Page Portfolio](https://hellocdpa.github.io/) -->
+<!--#### 📕 [Notion Portfolio](https:) 
+   #### ✨ [Page Portfolio](https:) -->
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFCCCC)
