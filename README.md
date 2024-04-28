@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=220&section=header&text=gayoung's%20GitHub&fontSize=70&fontColor=660000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A6E4FF&height=220&section=header&text=gayoung's%20GitHub&fontSize=70&fontColor=660000)
 
 
 <!-- 인사 -->
@@ -8,7 +8,7 @@
 # 🔎 My Project
  
 ### 👩‍🔧 펫
- : 설명
+ : 간략하게 설명
  
  <a href="#">GitHub</a>
 
@@ -90,4 +90,4 @@
    #### ✨ [Page Portfolio](https:) -->
 
 <!-- 푸터 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&color=FFCCCC)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=A6E4FF)
