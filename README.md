@@ -9,19 +9,23 @@
  
 ### 🐶 HappyTogetDOG 🐶
  : HappyTogetDOG는 반려견을 사랑하는 모두를 위한 종합 플랫폼으로 웹페이지로 구현되었습니다.
+ <br>
  <a href="https://github.com/wngusv/HappyTogeDOG">GitHub</a>
 
 ### 📝 활기록 📝
 : 활기록은 건강 관련 기록 일기장으로 DB를 이용한 건강 기록 프로그램입니다.
+<br>
   <a href="https://github.com/wngusv/Health-Record">GitHub</a>
 
 ### 💵 Lotto 프로그램 💵
 : 설명
-  <a href="#">GitHub</a>
+<br>
+<a href="#">GitHub</a>
   
 ### 🏭 자동차 엔진 제조공정 MES 구축 🏭
 : 설명
-  <a href="https://github.com/kimgayoung0114/SmartFactory">GitHub</a>
+<br>
+<a href="https://github.com/kimgayoung0114/SmartFactory">GitHub</a>
 
 
 
