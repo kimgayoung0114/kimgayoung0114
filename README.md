@@ -16,14 +16,15 @@
 : 활기록은 건강 관련 기록 일기장으로 DB를 이용한 건강 기록 프로그램입니다.
 <br>
   <a href="https://github.com/wngusv/Health-Record">GitHub</a>
-
-### 💵 Lotto 프로그램 💵
+  
+<!--### 💵 Lotto 프로그램 💵
 : 설명
 <br>
-<a href="#">GitHub</a>
+<a href="#">GitHub</a> -->
+
   
-### 🏭 자동차 엔진 제조공정 MES 구축 🏭
-: 설명
+### 🏭 자동차 엔진 조립 실시간 모니터링 및 관리 시스템 🏭
+: 생산 라인의 성능을 모니터링하고, 잠재적 문제를 즉시 감지하여 대응할 수 있게 함으로써 효율성과 생산성을 극대화하기 위해 설계된 프로그램입니다.
 <br>
 <a href="https://github.com/kimgayoung0114/SmartFactory">GitHub</a>
 
