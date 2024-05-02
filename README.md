@@ -93,4 +93,4 @@
    #### ✨ [Page Portfolio](https:) -->
 
 <!-- 푸터 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&color=C2F2FF)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=B686C7)
