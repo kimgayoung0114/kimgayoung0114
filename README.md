@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=C2F2FF&height=220&section=header&text=gayoung's%20GitHub&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B686C7&height=220&section=header&text=gayoung's%20GitHub&fontSize=70&fontColor=FFFFFF)
 
 
 <!-- 인사 -->
